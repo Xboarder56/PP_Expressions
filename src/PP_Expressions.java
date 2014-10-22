@@ -1,8 +1,7 @@
 /**
- * Animated_Bubbles.java
+ * PP_Expressions.java
  * @author Garrett J. Beasley
- * 10/06/2014
- * Draws a House Picture
+ * 10/20/2014
  */
 
 
@@ -10,10 +9,7 @@ public class PP_Expressions
 {
 	public static void main(String[] args) 
 	{
-		int a=1;
-		int b=2;
-		int c=3;
-		int d=5;
+		int a=1, b=2, c=3, d=5;
 		boolean answerTF;
 		int answerInt;
 		

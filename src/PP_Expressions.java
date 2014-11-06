@@ -9,9 +9,16 @@ public class PP_Expressions
 {
 	public static void main(String[] args) 
 	{
+		
 		int a=1, b=2, c=3, d=5;
 		boolean answerTF;
 		int answerInt;
+
+		for(int i = 1; i<=512; i+=i)
+		{
+			
+			System.out.println(i);
+		}
 		
 		System.out.println("");
 		System.out.println("Section 1");
